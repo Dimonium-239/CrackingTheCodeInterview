@@ -3,7 +3,7 @@ package com.github.dimonium_239.ArraysAndStrings.CheckPermutation;
 import java.util.Arrays;
 
 public class Solution {
-
+    
     protected static boolean isPermutation(String str1, String str2){
         char[] str1Char = str1.toCharArray();
         char[] str2Char = str2.toCharArray();
